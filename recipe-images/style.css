@@ -1,0 +1,16 @@
+.ingrediants-table{
+    border-collapse: collapse;
+}
+#rating {
+    width: 100px;
+    height: 15px;
+    background: #ddd;
+}
+#rating::-webkit-slider-thumb{
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #333;
+}
+/**/
